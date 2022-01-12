@@ -12,5 +12,5 @@
  - através dos comandos git commit e git push é possível preparar o arquivo e enviá-lo, como uma nova versão, para o repositório remoto;
  - o comando pull pode ser utilizado para "puxar" um repositório para resolução de conflitos necessários, uma vez que algo tenha sido atualizado remotamente por outro colaborador;
 
-#### O uso do Git e Github permitem que haja um sistema de desenvolvimento e colaboração  distribuido e seguro, garantindo o versionamento do código gerado de forma mais eficaz.
+#### O uso do Git e Github permite que haja um sistema de desenvolvimento e colaboração  distribuido e seguro, garantindo o versionamento do código gerado de forma mais eficaz.
 
